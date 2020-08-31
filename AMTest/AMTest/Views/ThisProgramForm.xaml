@@ -1,0 +1,42 @@
+﻿<mah:MetroWindow  
+                  x:Class="AMTest.Views.ThisProgramForm"
+                  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+                  xmlns:local="clr-namespace:AMTest.Views"
+                  mc:Ignorable="d"
+                  Height="350" Width="650" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3.5*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="29*"/>
+                <RowDefinition Height="29*"/>
+                <RowDefinition Height="29*"/>
+                <RowDefinition Height="29*"/>
+                <RowDefinition Height="165*"/>
+                <RowDefinition Height="40*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:Name="labelProductName" Grid.Row="0" VerticalAlignment="Center" Text="  제품 이름 " FontSize="13" Height="17" Margin="0,6"/>
+            <TextBlock x:Name="labelVersion" Grid.Row="1" VerticalAlignment="Center" Text="  버전 " FontSize="13" Height="17" Margin="0,6"/>
+            <TextBlock x:Name="labelCopyright" Grid.Row="2" VerticalAlignment="Center" Text="  저작권 " FontSize="13" Height="17" Margin="0,6"/>
+            <TextBlock x:Name="labelCompanyName" Grid.Row="3" VerticalAlignment="Center" Text="  회사 이름 " FontSize="13" Height="17" Margin="0,6"/>
+
+            <TextBox x:Name="textBoxDescription" Grid.Row="4" Text="설명" Margin="0,10,5,0"
+                     TextWrapping="Wrap" AcceptsReturn="True" IsReadOnly="True"/>
+            <Button Grid.Row="5" Width="100" Height="30" Content="확인(O)" FontSize="10" VerticalAlignment="Center"
+                    HorizontalAlignment="Right" Margin="0,4,5,4" IsCancel="True"
+                    Background="LightGray" />
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="218" Margin="10,42,0,0" VerticalAlignment="Top" 
+               Width="217" Source="/Resources/images.png"/>
+
+    </Grid>
+</mah:MetroWindow>

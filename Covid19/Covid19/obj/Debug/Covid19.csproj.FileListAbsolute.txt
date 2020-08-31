@@ -1,0 +1,16 @@
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\Covid19.exe.config
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\Covid19.exe
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\Covid19.pdb
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\MetroFramework.Design.dll
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\MetroFramework.dll
+D:\kkaengji\StudyCSharp\Covid19\Covid19\bin\Debug\MetroFramework.Fonts.dll
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.csprojAssemblyReference.cache
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.MainForm.resources
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.Properties.Resources.resources
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.csproj.GenerateResource.cache
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.csproj.CoreCompileInputs.cache
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.csproj.CopyComplete
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.exe
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.pdb
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.SubItems.OtherCountry.resources
+D:\kkaengji\StudyCSharp\Covid19\Covid19\obj\Debug\Covid19.SubItems.Korea.resources

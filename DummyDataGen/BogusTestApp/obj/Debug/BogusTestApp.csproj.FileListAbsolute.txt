@@ -1,0 +1,12 @@
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\BogusTestApp.exe.config
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\BogusTestApp.exe
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\BogusTestApp.pdb
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\Bogus.dll
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\Bogus.xml
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\obj\Debug\BogusTestApp.csprojAssemblyReference.cache
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\obj\Debug\BogusTestApp.csproj.CoreCompileInputs.cache
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\obj\Debug\BogusTestApp.csproj.CopyComplete
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\obj\Debug\BogusTestApp.exe
+C:\Code\PKNU_Coding\StudyIoT\DummyDataGen\BogusTestApp\obj\Debug\BogusTestApp.pdb
