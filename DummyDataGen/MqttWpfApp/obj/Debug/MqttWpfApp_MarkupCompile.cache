@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\kkaengji\Studyiot\DummyDataGen\MqttWpfApp\obj\Debug\
+D:\kkaengji\Portfolio\DummyDataGen\MqttWpfApp\obj\Debug\
 MqttMoniteringWpfApp
 none
 false
 DEBUG;TRACE
-D:\kkaengji\Studyiot\DummyDataGen\MqttWpfApp\App.xaml
+D:\kkaengji\Portfolio\DummyDataGen\MqttWpfApp\App.xaml
 6-484523665
 
 20801033389
-161-1748481221
+161-1764745211
 Views\ErrorPopupView.xaml;Views\CustomPopupView.xaml;Views\DataBaseView.xaml;Views\HistoryView.xaml;Views\MainView.xaml;Views\RealTimeView.xaml;
 
 False
